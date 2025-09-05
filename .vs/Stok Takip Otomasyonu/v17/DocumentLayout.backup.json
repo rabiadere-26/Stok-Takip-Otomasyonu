@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|c:\\users\\loq\\desktop\\proje_2\\stok takip otomasyonuu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\urun ekle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:urun ekle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\urun_listele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:urun_listele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\urun ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:urun ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\satis_listeleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:satis_listeleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\musterilisteleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:musterilisteleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\urun_listele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:urun_listele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\urun ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:urun ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\satis_listeleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:satis_listeleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\properties\\settings.settings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:properties\\settings.settings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\musterilisteleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:musterilisteleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\urun_listele.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:urun_listele.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\urun ekle.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:urun ekle.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\stok_takipdataset2.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:stok_takipdataset2.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\stok_takipdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{851D37EB-1474-45C4-9FC4-D744D084E989}|Stok Takip Otomasyonu.csproj|solutionrelative:stok_takipdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Urun Ekle.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Urun Ekle.Designer.cs",
+              "RelativeDocumentMoniker": "Urun Ekle.Designer.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Urun Ekle.Designer.cs",
+              "RelativeToolTip": "Urun Ekle.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:04:11.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMusteriEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\frmMusteriEkle.cs",
+              "RelativeDocumentMoniker": "frmMusteriEkle.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\frmMusteriEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmMusteriEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:36:15.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:36:08.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "musteriListeleme.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\musteriListeleme.cs",
+              "RelativeDocumentMoniker": "musteriListeleme.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\musteriListeleme.cs [Tasar\u0131m]",
+              "RelativeToolTip": "musteriListeleme.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:36:20.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "marka.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\marka.cs",
+              "RelativeDocumentMoniker": "marka.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\marka.cs [Tasar\u0131m]",
+              "RelativeToolTip": "marka.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:36:18.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:47:32.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "urun_listele.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\urun_listele.cs",
+              "RelativeDocumentMoniker": "urun_listele.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\urun_listele.cs [Tasar\u0131m]",
+              "RelativeToolTip": "urun_listele.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:36:30.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Urun Ekle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Urun Ekle.cs",
+              "RelativeDocumentMoniker": "Urun Ekle.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Urun Ekle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Urun Ekle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:36:24.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "satis_listeleme.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\satis_listeleme.cs",
+              "RelativeDocumentMoniker": "satis_listeleme.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\satis_listeleme.cs [Tasar\u0131m]",
+              "RelativeToolTip": "satis_listeleme.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:36:22.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "kategori.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\kategori.cs",
+              "RelativeDocumentMoniker": "kategori.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\kategori.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kategori.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:36:17.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAtwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:36:43.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-22T21:21:01.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmMusteriEkle.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\frmMusteriEkle.cs",
+              "RelativeDocumentMoniker": "frmMusteriEkle.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\frmMusteriEkle.cs",
+              "RelativeToolTip": "frmMusteriEkle.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:37:43.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:13:50.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-05-24T21:14:07.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "urun_listele.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\urun_listele.cs",
+              "RelativeDocumentMoniker": "urun_listele.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\urun_listele.cs",
+              "RelativeToolTip": "urun_listele.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:15:48.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "satis_listeleme.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\satis_listeleme.cs",
+              "RelativeDocumentMoniker": "satis_listeleme.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\satis_listeleme.cs",
+              "RelativeToolTip": "satis_listeleme.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:15:12.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Urun Ekle.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Urun Ekle.cs",
+              "RelativeDocumentMoniker": "Urun Ekle.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Urun Ekle.cs",
+              "RelativeToolTip": "Urun Ekle.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:15:29.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "marka.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\marka.cs",
+              "RelativeDocumentMoniker": "marka.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\marka.cs",
+              "RelativeToolTip": "marka.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:50:13.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "kategori.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\kategori.cs",
+              "RelativeDocumentMoniker": "kategori.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\kategori.cs",
+              "RelativeToolTip": "kategori.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:48:50.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "musteriListeleme.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\musteriListeleme.cs",
+              "RelativeDocumentMoniker": "musteriListeleme.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\musteriListeleme.cs",
+              "RelativeToolTip": "musteriListeleme.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:50:46.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "urun_listele.resx",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\urun_listele.resx",
+              "RelativeDocumentMoniker": "urun_listele.resx",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\urun_listele.resx",
+              "RelativeToolTip": "urun_listele.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-24T21:04:04.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Urun Ekle.resx",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Urun Ekle.resx",
+              "RelativeDocumentMoniker": "Urun Ekle.resx",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Urun Ekle.resx",
+              "RelativeToolTip": "Urun Ekle.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-24T21:04:10.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Stok_TakipDataSet2.xsd",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Stok_TakipDataSet2.xsd",
+              "RelativeDocumentMoniker": "Stok_TakipDataSet2.xsd",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Stok_TakipDataSet2.xsd",
+              "RelativeToolTip": "Stok_TakipDataSet2.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-05-22T21:20:08.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Stok_TakipDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Stok_TakipDataSet.xsd",
+              "RelativeDocumentMoniker": "Stok_TakipDataSet.xsd",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\Proje_2\\Stok Takip Otomasyonuu\\Stok_TakipDataSet.xsd",
+              "RelativeToolTip": "Stok_TakipDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-05-22T21:20:03.428Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

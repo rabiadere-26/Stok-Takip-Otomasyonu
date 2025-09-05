@@ -1,0 +1,61 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Stok_Takip_Otomasyonu
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            frmMusteriEkle ekle = new frmMusteriEkle();
+            ekle.ShowDialog();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            musteriListeleme listele = new musteriListeleme();
+            listele.ShowDialog();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Urun_Ekle ekle = new Urun_Ekle();
+            ekle.ShowDialog();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            kategori kat = new kategori();
+            kat.ShowDialog();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            marka mark = new marka();
+            mark.ShowDialog();
+        }
+    }
+}

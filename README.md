@@ -8,6 +8,8 @@ Bu proje, küçük ve orta ölçekli işletmelerin envanter yönetimini dijitall
 - **Veri Kalıcılığı:** Girilen tüm bilgiler `stok.txt` dosyasında saklanır; uygulama kapatılsa dahi veriler korunur.
 - **Hızlı Güncelleme:** Stok giriş-çıkış süreçlerini yönetmek için optimize edilmiş kullanıcı arayüzü.
 
+  ![Uygulama Ekran Görüntüsü](arayuz-ss.png)
+
 ## 🛠 Teknik Mimari ve Teknolojiler
 - **Dil:** C# (C-Sharp)
 - **Framework:** .NET Desktop Development (Windows Forms)
